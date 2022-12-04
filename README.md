@@ -1,4 +1,5 @@
-The iPHONE IOS Calculator 📱 🤳🧮🤖📚🔢🔣
+# The iPHONE IOS Calculator 📱 🤳🧮🤖📚🔢🔣
+
 The repo for the iPhone calculator code-along using HTML, CSS, and Vanilla JavaScript!
 
 Symbols used in this app: ± % ÷ × − + =
