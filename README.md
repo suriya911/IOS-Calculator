@@ -5,3 +5,5 @@ The repo for the iPhone calculator code-along using HTML, CSS, and Vanilla JavaS
 Symbols used in this app: ± % ÷ × − + =
 
 I just created this project to know the basics of the Full Stack Tech.
+
+![](pics/calculator.png)
